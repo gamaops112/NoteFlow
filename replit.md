@@ -8,6 +8,10 @@ NoteCode is a modern full-stack web application for note-taking with code syntax
 
 Preferred communication style: Simple, everyday language.
 
+## Recent Changes
+
+- **Documentation Added (August 12, 2025)**: Created comprehensive README.md with detailed setup instructions, usage guide, API documentation, and troubleshooting section. Includes Material Design implementation details and deployment guidance for Replit platform.
+
 ## System Architecture
 
 ### Frontend Architecture
